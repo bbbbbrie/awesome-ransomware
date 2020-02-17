@@ -3,6 +3,7 @@ A curated list of ransomware-related resources.
 
 ## Books
   - [Preventing Ransomware](https://www.packtpub.com/application-development/preventing-ransomware)
+  - [Ransomware Revealed](https://www.apress.com/gp/book/9781484242544) 
   - [Ransomware: Defending Against Digital Extortion](https://www.oreilly.com/library/view/ransomware/9781491967874/) - The O'Reilly book on ransomware
 
 ## Decryption Tools
@@ -22,3 +23,6 @@ A curated list of ransomware-related resources.
 
 ## Miscellaneous
   - [Darkode](https://www.wnycstudios.org/podcasts/radiolab/articles/darkode) - A well-produced Radiolab episode that follows a mother-daughter pair in the wake of a ransomware incident.
+
+## Related Awesome Lists
+  - [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)

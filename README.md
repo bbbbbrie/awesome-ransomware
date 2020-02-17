@@ -1,4 +1,4 @@
-# Awesome Ransomware [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+# Awesome Ransomware ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)  ![GitHub last commit](https://img.shields.io/github/last-commit/bbbbbrie/awesome-ransomware)
 A curated list of ransomware-related resources.
 
 ## Books

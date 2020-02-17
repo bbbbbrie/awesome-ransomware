@@ -27,4 +27,5 @@ A curated list of ransomware-related resources.
   - [Ransomware Attacks Map](https://statescoop.com/ransomware-map/) - An interactive map of known ransomware incidents in the US
 
 ## Related Awesome Lists
+  - [awesome-incident-reponse](https://github.com/meirwah/awesome-incident-response)
   - [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)

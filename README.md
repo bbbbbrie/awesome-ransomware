@@ -1,6 +1,10 @@
 # Awesome Ransomware [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 A curated list of ransomware-related resources.
 
+## Books
+  - [Preventing Ransomware](https://www.packtpub.com/application-development/preventing-ransomware)
+  - [Ransomware: Defending Against Digital Extortion](https://www.oreilly.com/library/view/ransomware/9781491967874/) - The O'Reilly book on ransomware
+
 ## Decrypters
   - [Free Ransomware Decrypters | Kaspersky](https://noransom.kaspersky.com/)
   - [No More Ransom](https://www.nomoreransom.org)

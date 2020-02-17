@@ -9,6 +9,7 @@ A curated list of ransomware-related resources.
 ## Decryption Tools
   - [Emsisoft Ransomware Decryption Tools](https://www.emsisoft.com/ransomware-decryption-tools/)
   - [Free Ransomware Decrypters | Kaspersky](https://noransom.kaspersky.com/)
+  - [List of Decryption Tools | Heimdal Security](https://heimdalsecurity.com/blog/ransomware-decryption-tools/) - A long list of decryption tools
   - [No More Ransom](https://www.nomoreransom.org)
   - [Trend Micro Ransomware File Decryptor](https://success.trendmicro.com/solution/1114221-downloading-and-using-the-trend-micro-ransomware-file-decryptor)
   - [The Windows Club](https://www.thewindowsclub.com/list-ransomware-decryptor-tools) - A list of decryption tools

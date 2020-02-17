@@ -1,4 +1,4 @@
-# Awesome Ransomware [![Awesome]
+# Awesome Ransomware [![Awesome]]
 A curated list of ransomware-related resources.
 
 ## Decrypters

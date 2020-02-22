@@ -20,6 +20,7 @@ A curated list of ransomware-related resources.
 
 ## Resources
   - [ID Ransomware](https://id-ransomware.malwarehunterteam.com/)
+  - [Yara rules for detecting ransomware](https://github.com/advanced-threat-research/Yara-Rules/tree/master/ransomware)
   - [/r/ransomware](https://www.reddit.com/r/Ransomware/)
 
 ## Miscellaneous

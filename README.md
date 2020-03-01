@@ -19,6 +19,7 @@ A curated list of ransomware-related resources.
   - [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml) - A Google Sheets document shepherded by `@nyxbone`
 
 ## Resources
+  - [Bleeping Computer's Ransomware Forum](https://www.bleepingcomputer.com/forums/f/239/ransomware-help-tech-support/)
   - [ID Ransomware](https://id-ransomware.malwarehunterteam.com/)
   - [Yara rules for detecting ransomware](https://github.com/advanced-threat-research/Yara-Rules/tree/master/ransomware)
   - [/r/ransomware](https://www.reddit.com/r/Ransomware/)

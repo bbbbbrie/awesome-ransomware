@@ -29,6 +29,7 @@ A curated list of ransomware-related resources.
   - [/r/ransomware](https://www.reddit.com/r/Ransomware/)
 
 ## Miscellaneous
+  - [EMPHASIS: Economical, Psychological and Societal Impact of Ransomware](https://www.emphasis.ac.uk/)
   - [Ransomware: Past, Present and Future](https://blog.talosintelligence.com/2016/04/ransomware.html) - Cisco Talos blog post on ransomware, vintage 2016
   - [Darkode](https://www.wnycstudios.org/podcasts/radiolab/articles/darkode) - A well-produced Radiolab episode that follows a mother-daughter pair in the wake of a ransomware incident
   - [A timeline of major ransomware events](https://kraftbusiness.com/wp-content/uploads/2019/01/history-evolution-of-ransomware.png)

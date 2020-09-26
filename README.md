@@ -25,6 +25,7 @@ A curated list of ransomware-related resources.
   - [Bleeping Computer's Ransomware Forum](https://www.bleepingcomputer.com/forums/f/239/ransomware-help-tech-support/)
   - [ID Ransomware](https://id-ransomware.malwarehunterteam.com/)
   - [Ransomware identification for the judicious analyst](https://www.gdatasoftware.com/blog/2019/06/31666-ransomware-identification-for-the-judicious-analyst)
+  - [Ransomware Reports](https://github.com/d4rk-d4nph3/Ransomware-Reports)
   - [Yara rules for detecting ransomware](https://github.com/advanced-threat-research/Yara-Rules/tree/master/ransomware)
   - [/r/ransomware](https://www.reddit.com/r/Ransomware/)
 

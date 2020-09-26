@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Awesome Ransomware ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)  ![GitHub last commit](https://img.shields.io/github/last-commit/bbbbbrie/awesome-ransomware)
+A curated list of ransomware-related resources.
 
-You can use the [editor on GitHub](https://github.com/bbbbbrie/awesome-ransomware/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Books
+  - [Preventing Ransomware](https://www.packtpub.com/application-development/preventing-ransomware)
+  - [Ransomware Revealed](https://www.apress.com/gp/book/9781484242544) 
+  - [Ransomware: Defending Against Digital Extortion](https://www.oreilly.com/library/view/ransomware/9781491967874/) - The O'Reilly book on ransomware
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Decryption Tools
+  - [Emsisoft Ransomware Decryption Tools](https://www.emsisoft.com/ransomware-decryption-tools/)
+  - [Free Ransomware Decrypters | Kaspersky](https://noransom.kaspersky.com/)
+  - [List of Decryption Tools | Heimdal Security](https://heimdalsecurity.com/blog/ransomware-decryption-tools/) - A long list of decryption tools
+  - [No More Ransom](https://www.nomoreransom.org)
+  - [Trend Micro Ransomware File Decryptor](https://success.trendmicro.com/solution/1114221-downloading-and-using-the-trend-micro-ransomware-file-decryptor)
+  - [The Windows Club](https://www.thewindowsclub.com/list-ransomware-decryptor-tools) - A list of decryption tools
 
-### Markdown
+## Infographics
+  - [Ransomware Families](https://heimdalsecurity.com/blog/wp-content/uploads/ransowmare-families-f-secure-1.jpg) - A diagram from F-Secure of ransomware families from 2012-2017.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Lists of Ransomware Families
+  - [NJCCIC](https://www.cyber.nj.gov/threat-profiles/ransomware/) - From AutoLocky to Zepto
+  - [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml) - A Google Sheets document shepherded by `@nyxbone`
 
-```markdown
-Syntax highlighted code block
+## Resources
+  - [Bleeping Computer's Ransomware Forum](https://www.bleepingcomputer.com/forums/f/239/ransomware-help-tech-support/)
+  - [ID Ransomware](https://id-ransomware.malwarehunterteam.com/)
+  - [Ransomware identification for the judicious analyst](https://www.gdatasoftware.com/blog/2019/06/31666-ransomware-identification-for-the-judicious-analyst)
+  - [Ransomware Reports](https://github.com/d4rk-d4nph3/Ransomware-Reports)
+  - [Yara rules for detecting ransomware](https://github.com/advanced-threat-research/Yara-Rules/tree/master/ransomware)
+  - [/r/ransomware](https://www.reddit.com/r/Ransomware/)
 
-# Header 1
-## Header 2
-### Header 3
+## Miscellaneous
+  - [EMPHASIS: Economical, Psychological and Societal Impact of Ransomware](https://www.emphasis.ac.uk/)
+  - [Ransomware: Past, Present and Future](https://blog.talosintelligence.com/2016/04/ransomware.html) - Cisco Talos blog post on ransomware, vintage 2016
+  - [Darkode](https://www.wnycstudios.org/podcasts/radiolab/articles/darkode) - A well-produced Radiolab episode that follows a mother-daughter pair in the wake of a ransomware incident
+  - [A timeline of major ransomware events](https://kraftbusiness.com/wp-content/uploads/2019/01/history-evolution-of-ransomware.png)
+  - [Ransomware Attacks Map](https://statescoop.com/ransomware-map/) - An interactive map of known ransomware incidents in the US
+  - [RAASNet](https://github.com/leonv024/RAASNet)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bbbbbrie/awesome-ransomware/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Related Awesome Lists
+  - [awesome-incident-reponse](https://github.com/meirwah/awesome-incident-response)
+  - [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)

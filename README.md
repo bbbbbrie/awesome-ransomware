@@ -36,6 +36,9 @@ A curated list of ransomware-related resources.
   - [A timeline of major ransomware events](https://kraftbusiness.com/wp-content/uploads/2019/01/history-evolution-of-ransomware.png)
   - [Ransomware Attacks Map](https://statescoop.com/ransomware-map/) - An interactive map of known ransomware incidents in the US
   - [RAASNet](https://github.com/leonv024/RAASNet)
+  - [Rensenware](https://en.wikipedia.org/wiki/Rensenware)
+    - [Do you want to play a game? Ransomware asks for high score instead of money](https://arstechnica.com/gaming/2017/04/do-you-want-to-play-a-game-ransomware-asks-for-high-score-instead-of-money/)
+
 
 ## Related Awesome Lists
   - [awesome-incident-reponse](https://github.com/meirwah/awesome-incident-response)

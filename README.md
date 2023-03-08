@@ -5,6 +5,7 @@ A curated list of ransomware-related resources.
   - [Preventing Ransomware](https://www.packtpub.com/application-development/preventing-ransomware)
   - [Ransomware Revealed](https://www.apress.com/gp/book/9781484242544) 
   - [Ransomware: Defending Against Digital Extortion](https://www.oreilly.com/library/view/ransomware/9781491967874/) - The O'Reilly book on ransomware
+  - [The Ransomware Hunting Team](https://us.macmillan.com/books/9780374603304/theransomwarehuntingteam)
 
 ## Decryption Tools
   - [Emsisoft Ransomware Decryption Tools](https://www.emsisoft.com/ransomware-decryption-tools/)

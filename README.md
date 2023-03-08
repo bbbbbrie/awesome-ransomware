@@ -28,6 +28,8 @@ A curated list of ransomware-related resources.
   - [Ransomware Reports](https://github.com/d4rk-d4nph3/Ransomware-Reports)
   - [Yara rules for detecting ransomware](https://github.com/advanced-threat-research/Yara-Rules/tree/master/ransomware)
   - [/r/ransomware](https://www.reddit.com/r/Ransomware/)
+  - [Ransomware Task Force](https://securityandtechnology.org/ransomwaretaskforce/)
+    - [RTF Report: Combating Ransomware](https://securityandtechnology.org/ransomwaretaskforce/report/) 
 
 ## Miscellaneous
   - [EMPHASIS: Economical, Psychological and Societal Impact of Ransomware](https://www.emphasis.ac.uk/)

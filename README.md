@@ -15,6 +15,15 @@ A curated list of ransomware-related resources.
   - [Trend Micro Ransomware File Decryptor](https://success.trendmicro.com/solution/1114221-downloading-and-using-the-trend-micro-ransomware-file-decryptor)
   - [The Windows Club](https://www.thewindowsclub.com/list-ransomware-decryptor-tools) - A list of decryption tools
 
+## Guides and Playbooks
+
+  - [Ransomware Playbook](https://www.rapid7.com/globalassets/_pdfs/whitepaperguide/rapid7-insightidr-ransomware-playbook.pdf) - Rapid7
+  - [Ransomware playbook (ITSM.00.099)](https://www.cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099) - Canadian Centre for Cyber Security 
+    - [PDF](https://www.cyber.gc.ca/sites/default/files/cyber/2021-12/itsm00099-ransomware-playbook-2021-final3-en.pdf)
+  - [Ransomware Template](https://github.com/counteractive/incident-response-plan-template/blob/master/playbooks/playbook-ransomware.md) from Counteractive
+  - [Microsoft DART ransomware approach and best practices](https://learn.microsoft.com/en-us/security/operations/incident-response-playbook-dart-ransomware-approach)
+
+
 ## Infographics
   - [Ransomware Families](https://heimdalsecurity.com/blog/wp-content/uploads/ransowmare-families-f-secure-1.jpg) - A diagram from F-Secure of ransomware families from 2012-2017.
 

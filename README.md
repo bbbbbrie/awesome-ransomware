@@ -31,6 +31,12 @@ A curated list of ransomware-related resources.
   - [NJCCIC](https://www.cyber.nj.gov/threat-profiles/ransomware/) - From AutoLocky to Zepto
   - [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml) - A Google Sheets document shepherded by `@nyxbone`
 
+## Observing Ransomware Groups
+
+  - [Ransomwatch](https://ransomwatch.telemetry.ltd/#/README) Observatory
+    - [joshhighet/ransomwatch](https://github.com/joshhighet/ransomwatch) on GitHub
+
+
 ## Resources
   - [Bleeping Computer's Ransomware Forum](https://www.bleepingcomputer.com/forums/f/239/ransomware-help-tech-support/)
   - [ID Ransomware](https://id-ransomware.malwarehunterteam.com/)

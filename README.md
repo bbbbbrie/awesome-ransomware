@@ -41,6 +41,10 @@ A curated list of ransomware-related resources.
   - [Rensenware](https://en.wikipedia.org/wiki/Rensenware)
     - [Do you want to play a game? Ransomware asks for high score instead of money](https://arstechnica.com/gaming/2017/04/do-you-want-to-play-a-game-ransomware-asks-for-high-score-instead-of-money/)
 
+## Videos
+
+  - [SANS Ransomware Summit 2022](https://www.youtube.com/playlist?list=PLtgaAEEmVe6AGQj2LhA4UnN0XolmeYw9_)
+
 
 ## Related Awesome Lists
   - [awesome-incident-reponse](https://github.com/meirwah/awesome-incident-response)

@@ -23,7 +23,6 @@ A curated list of ransomware-related resources.
   - [Ransomware Template](https://github.com/counteractive/incident-response-plan-template/blob/master/playbooks/playbook-ransomware.md) from Counteractive
   - [Microsoft DART ransomware approach and best practices](https://learn.microsoft.com/en-us/security/operations/incident-response-playbook-dart-ransomware-approach)
 
-
 ## Infographics
   - [Ransomware Families](https://heimdalsecurity.com/blog/wp-content/uploads/ransowmare-families-f-secure-1.jpg) - A diagram from F-Secure of ransomware families from 2012-2017.
 
@@ -35,7 +34,7 @@ A curated list of ransomware-related resources.
 
   - [Ransomwatch](https://ransomwatch.telemetry.ltd/#/README) Observatory
     - [joshhighet/ransomwatch](https://github.com/joshhighet/ransomwatch) on GitHub
-
+  - [Ransomlook](https://www.ransomlook.io/) - Notes and info on 150+ groups
 
 ## Resources
   - [Bleeping Computer's Ransomware Forum](https://www.bleepingcomputer.com/forums/f/239/ransomware-help-tech-support/)

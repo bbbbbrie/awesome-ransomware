@@ -32,9 +32,10 @@ A curated list of ransomware-related resources.
 
 ## Observing Ransomware Groups
 
+  - [Ransomfeed](https://www.ransomfeed.it/)
+  - [Ransomlook](https://www.ransomlook.io/) - Notes and info on 150+ groups
   - [Ransomwatch](https://ransomwatch.telemetry.ltd/#/README) Observatory
     - [joshhighet/ransomwatch](https://github.com/joshhighet/ransomwatch) on GitHub
-  - [Ransomlook](https://www.ransomlook.io/) - Notes and info on 150+ groups
 
 ## Resources
   - [Bleeping Computer's Ransomware Forum](https://www.bleepingcomputer.com/forums/f/239/ransomware-help-tech-support/)
@@ -59,7 +60,6 @@ A curated list of ransomware-related resources.
 ## Videos
 
   - [SANS Ransomware Summit 2022](https://www.youtube.com/playlist?list=PLtgaAEEmVe6AGQj2LhA4UnN0XolmeYw9_)
-
 
 ## Related Awesome Lists
   - [awesome-incident-reponse](https://github.com/meirwah/awesome-incident-response)

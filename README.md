@@ -1,18 +1,18 @@
 # Awesome Ransomware ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)  ![GitHub last commit](https://img.shields.io/github/last-commit/bbbbbrie/awesome-ransomware)
 A curated list of ransomware-related resources.
 
-## Books
+## 📚  Books
   - [Ransomware Revealed](https://www.apress.com/gp/book/9781484242544) 
   - [Ransomware: Defending Against Digital Extortion](https://www.oreilly.com/library/view/ransomware/9781491967874/) - The O'Reilly book on ransomware
   - [The Ransomware Hunting Team](https://us.macmillan.com/books/9780374603304/theransomwarehuntingteam)
 
-## Articles
+## 🗞️ Articles and Essays of Note
 
 - [The Ransomware Superhero of Normal, Illinois](https://www.propublica.org/article/the-ransomware-superhero-of-normal-illinois) [ 💾 [archive](https://archive.ph/6sWU0) ]
 
 ## 🛠️  Tools 
 
-### Decrypters
+### 🔐  Decrypters
 
   - [Emsisoft Ransomware Decryption Tools](https://www.emsisoft.com/ransomware-decryption-tools/)
   - [Free Ransomware Decrypters | Kaspersky](https://noransom.kaspersky.com/)
@@ -21,12 +21,12 @@ A curated list of ransomware-related resources.
   - [Trend Micro Ransomware File Decryptor](https://success.trendmicro.com/solution/1114221-downloading-and-using-the-trend-micro-ransomware-file-decryptor)
   - [The Windows Club](https://www.thewindowsclub.com/list-ransomware-decryptor-tools) - A list of decryption tools
 
-### Other
+### ✨  Other
 
 - [CryptoSearch](https://www.bleepingcomputer.com/download/cryptosearch/)
 - [RansomNoteCleaner](https://www.bleepingcomputer.com/download/ransomnotecleaner/)
 
-## Guides and Playbooks
+## 🗺️  Guides and Playbooks
 
   - [Ransomware Playbook](https://www.rapid7.com/globalassets/_pdfs/whitepaperguide/rapid7-insightidr-ransomware-playbook.pdf) - Rapid7
   - [Ransomware playbook (ITSM.00.099)](https://www.cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099) - Canadian Centre for Cyber Security 
@@ -34,10 +34,10 @@ A curated list of ransomware-related resources.
   - [Ransomware Template](https://github.com/counteractive/incident-response-plan-template/blob/master/playbooks/playbook-ransomware.md) from Counteractive
   - [Microsoft DART ransomware approach and best practices](https://learn.microsoft.com/en-us/security/operations/incident-response-playbook-dart-ransomware-approach)
 
-## Infographics
+## 🖼️  Infographics
   - [Ransomware Families](https://heimdalsecurity.com/blog/wp-content/uploads/ransowmare-families-f-secure-1.jpg) - A diagram from F-Secure of ransomware families from 2012-2017.
 
-## Lists of Ransomware Families
+## 🏡  Lists of Ransomware Families
   - [NJCCIC](https://www.cyber.nj.gov/threat-profiles/ransomware/) - From AutoLocky to Zepto
   - [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml) - A Google Sheets document shepherded by `@nyxbone` -- no longer actively updated
 
@@ -54,7 +54,7 @@ A curated list of ransomware-related resources.
   - [Ransomware Vulnerability Matrix](https://github.com/BushidoUK/Ransomware-Vulnerability-Matrix/)
   - [ransomware_gang.md](https://github.com/fastfire/deepdarkCTI/blob/main/ransomware_gang.md) in `fastfire/deepdarkCTI` on GitHub
 
-## Resources
+## ℹ️  Resources
   - [Bleeping Computer's Ransomware Forum](https://www.bleepingcomputer.com/forums/f/239/ransomware-help-tech-support/)
   - [ID Ransomware](https://id-ransomware.malwarehunterteam.com/)
   - [Ransomware identification for the judicious analyst](https://www.gdatasoftware.com/blog/2019/06/31666-ransomware-identification-for-the-judicious-analyst)
@@ -66,7 +66,7 @@ A curated list of ransomware-related resources.
   -  Ransomware known file extensions: [ransomware_extensions_list.csv](https://github.com/mthcht/awesome-lists/blob/main/Lists/ransomware_extensions_list.csv)
   -   Ransomware known file name ransom notes: [ransomware_notes_list.csv](https://github.com/mthcht/awesome-lists/blob/main/Lists/ransomware_notes_list.csv)
 
-## Miscellaneous
+## 📝 Miscellaneous
   - [EMPHASIS: Economical, Psychological and Societal Impact of Ransomware](https://www.emphasis.ac.uk/)
   - [Ransomware: Past, Present and Future](https://blog.talosintelligence.com/2016/04/ransomware.html) - Cisco Talos blog post on ransomware, vintage 2016
   - [Darkode](https://www.wnycstudios.org/podcasts/radiolab/articles/darkode) - A well-produced Radiolab episode that follows a mother-daughter pair in the wake of a ransomware incident
@@ -78,7 +78,7 @@ A curated list of ransomware-related resources.
   - [Rensenware](https://en.wikipedia.org/wiki/Rensenware)
     - [Do you want to play a game? Ransomware asks for high score instead of money](https://arstechnica.com/gaming/2017/04/do-you-want-to-play-a-game-ransomware-asks-for-high-score-instead-of-money/)
 
-## Videos
+## 🎥 Videos
 
   - [SANS Ransomware Summit 2022](https://www.youtube.com/playlist?list=PLtgaAEEmVe6AGQj2LhA4UnN0XolmeYw9_)
 

@@ -33,9 +33,12 @@ A curated list of ransomware-related resources.
 ## Observing Ransomware Groups
 
   - [Ransomfeed](https://www.ransomfeed.it/)
+    - [nuke86/ransomFeed](https://github.com/nuke86/ransomFeed) on GitHub (a fork of `ransomwatch`)
   - [Ransomlook](https://www.ransomlook.io/) - Notes and info on 150+ groups
   - [Ransomwatch](https://ransomwatch.telemetry.ltd/#/README) Observatory
+    - [✨ notable projects](https://ransomwatch.telemetry.ltd/#/sidecar-projects) list on `ransomwatch.telemetry.ltd`
     - [joshhighet/ransomwatch](https://github.com/joshhighet/ransomwatch) on GitHub
+  - [ransomware_gang.md](https://github.com/fastfire/deepdarkCTI/blob/main/ransomware_gang.md) in `fastfire/deepdarkCTI` on GitHub
 
 ## Resources
   - [Bleeping Computer's Ransomware Forum](https://www.bleepingcomputer.com/forums/f/239/ransomware-help-tech-support/)

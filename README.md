@@ -55,6 +55,7 @@ A curated list of ransomware-related resources.
   - [Ransomware: Past, Present and Future](https://blog.talosintelligence.com/2016/04/ransomware.html) - Cisco Talos blog post on ransomware, vintage 2016
   - [Darkode](https://www.wnycstudios.org/podcasts/radiolab/articles/darkode) - A well-produced Radiolab episode that follows a mother-daughter pair in the wake of a ransomware incident
   - [A timeline of major ransomware events](https://kraftbusiness.com/wp-content/uploads/2019/01/history-evolution-of-ransomware.png)
+    - The link above is `404`: see [the timeline via the Wayback Machine](https://web.archive.org/web/20220121031312/https://kraftbusiness.com/wp-content/uploads/2019/01/history-evolution-of-ransomware.png).
   - [Ransomware Attacks Map](https://statescoop.com/ransomware-map/) - An interactive map of known ransomware incidents in the US
   - [RAASNet](https://github.com/leonv024/RAASNet)
   - [Rensenware](https://en.wikipedia.org/wiki/Rensenware)

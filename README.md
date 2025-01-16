@@ -2,7 +2,6 @@
 A curated list of ransomware-related resources.
 
 ## Books
-  - [Preventing Ransomware](https://www.packtpub.com/application-development/preventing-ransomware)
   - [Ransomware Revealed](https://www.apress.com/gp/book/9781484242544) 
   - [Ransomware: Defending Against Digital Extortion](https://www.oreilly.com/library/view/ransomware/9781491967874/) - The O'Reilly book on ransomware
   - [The Ransomware Hunting Team](https://us.macmillan.com/books/9780374603304/theransomwarehuntingteam)
@@ -58,6 +57,7 @@ A curated list of ransomware-related resources.
     - The link above is `404`: see [the timeline via the Wayback Machine](https://web.archive.org/web/20220121031312/https://kraftbusiness.com/wp-content/uploads/2019/01/history-evolution-of-ransomware.png).
   - [Ransomware Attacks Map](https://statescoop.com/ransomware-map/) - An interactive map of known ransomware incidents in the US
   - [RAASNet](https://github.com/leonv024/RAASNet)
+    - The version above is no more: see [CesarAyalaDev/RAASNet](https://github.com/CesarAyalaDev/RAASNet).
   - [Rensenware](https://en.wikipedia.org/wiki/Rensenware)
     - [Do you want to play a game? Ransomware asks for high score instead of money](https://arstechnica.com/gaming/2017/04/do-you-want-to-play-a-game-ransomware-asks-for-high-score-instead-of-money/)
 

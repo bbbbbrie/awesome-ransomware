@@ -41,11 +41,12 @@ A curated list of ransomware-related resources.
   - [NJCCIC](https://www.cyber.nj.gov/threat-profiles/ransomware/) - From AutoLocky to Zepto
   - [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml) - A Google Sheets document shepherded by `@nyxbone` -- no longer actively updated
 
-## Observing Ransomware Groups
+## 🔭  Observing Ransomware Groups and Attacks
 
   - [Ransomfeed](https://www.ransomfeed.it/)
     - [nuke86/ransomFeed](https://github.com/nuke86/ransomFeed) on GitHub (a fork of `ransomwatch`)
   - [Ransomlook](https://www.ransomlook.io/) - Notes and info on 150+ groups
+  - [Ransomware Live](https://www.ransomware.live/)
   - [Ransomwatch](https://ransomwatch.telemetry.ltd/#/README) Observatory
     - [✨ notable projects](https://ransomwatch.telemetry.ltd/#/sidecar-projects) list on `ransomwatch.telemetry.ltd`
     - [joshhighet/ransomwatch](https://github.com/joshhighet/ransomwatch) on GitHub

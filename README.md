@@ -27,7 +27,7 @@ A curated list of ransomware-related resources.
 
 ## Lists of Ransomware Families
   - [NJCCIC](https://www.cyber.nj.gov/threat-profiles/ransomware/) - From AutoLocky to Zepto
-  - [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml) - A Google Sheets document shepherded by `@nyxbone`
+  - [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml) - A Google Sheets document shepherded by `@nyxbone` -- no longer actively updated
 
 ## Observing Ransomware Groups
 

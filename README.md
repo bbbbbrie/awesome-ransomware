@@ -50,6 +50,7 @@ A curated list of ransomware-related resources.
   - [Ransomwatch](https://ransomwatch.telemetry.ltd/#/README) Observatory
     - [✨ notable projects](https://ransomwatch.telemetry.ltd/#/sidecar-projects) list on `ransomwatch.telemetry.ltd`
     - [joshhighet/ransomwatch](https://github.com/joshhighet/ransomwatch) on GitHub
+  - [Ransomware Tool Matrix](https://github.com/BushidoUK/Ransomware-Tool-Matrix) - [companoin blog post](https://blog.bushidotoken.net/2024/08/the-ransomware-tool-matrix.html)
   - [ransomware_gang.md](https://github.com/fastfire/deepdarkCTI/blob/main/ransomware_gang.md) in `fastfire/deepdarkCTI` on GitHub
 
 ## Resources

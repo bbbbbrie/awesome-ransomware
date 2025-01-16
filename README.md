@@ -6,13 +6,25 @@ A curated list of ransomware-related resources.
   - [Ransomware: Defending Against Digital Extortion](https://www.oreilly.com/library/view/ransomware/9781491967874/) - The O'Reilly book on ransomware
   - [The Ransomware Hunting Team](https://us.macmillan.com/books/9780374603304/theransomwarehuntingteam)
 
-## Decryption Tools
+## Articles
+
+- [The Ransomware Superhero of Normal, Illinois](https://www.propublica.org/article/the-ransomware-superhero-of-normal-illinois) [ 💾 [archive](https://archive.ph/6sWU0) ]
+
+## 🛠️  Tools 
+
+### Decrypters
+
   - [Emsisoft Ransomware Decryption Tools](https://www.emsisoft.com/ransomware-decryption-tools/)
   - [Free Ransomware Decrypters | Kaspersky](https://noransom.kaspersky.com/)
   - [List of Decryption Tools | Heimdal Security](https://heimdalsecurity.com/blog/ransomware-decryption-tools/) - A long list of decryption tools
   - [No More Ransom](https://www.nomoreransom.org)
   - [Trend Micro Ransomware File Decryptor](https://success.trendmicro.com/solution/1114221-downloading-and-using-the-trend-micro-ransomware-file-decryptor)
   - [The Windows Club](https://www.thewindowsclub.com/list-ransomware-decryptor-tools) - A list of decryption tools
+
+### Other
+
+- [CryptoSearch](https://www.bleepingcomputer.com/download/cryptosearch/)
+- [RansomNoteCleaner](https://www.bleepingcomputer.com/download/ransomnotecleaner/)
 
 ## Guides and Playbooks
 

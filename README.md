@@ -1,5 +1,6 @@
 # Awesome Ransomware ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)  ![GitHub last commit](https://img.shields.io/github/last-commit/bbbbbrie/awesome-ransomware)
-A curated list of ransomware-related resources.
+
+> A curated list of ransomware-related resources with a primary focus on research (rather than remediation).
 
 ## 📚  Books
   - [Ransomware Revealed](https://www.apress.com/gp/book/9781484242544) 
@@ -9,6 +10,8 @@ A curated list of ransomware-related resources.
 ## 🗞️ Articles and Essays of Note
 
 - [The Ransomware Superhero of Normal, Illinois](https://www.propublica.org/article/the-ransomware-superhero-of-normal-illinois) [ 💾 [archive](https://archive.ph/6sWU0) ]
+- [Ransomware: Past, Present and Future](https://blog.talosintelligence.com/2016/04/ransomware.html) - Cisco Talos blog post on ransomware, vintage 2016
+- [Do you want to play a game? Ransomware asks for high score instead of money](https://arstechnica.com/gaming/2017/04/do-you-want-to-play-a-game-ransomware-asks-for-high-score-instead-of-money/) -- about [Rensenware](https://en.wikipedia.org/wiki/Rensenware)
 
 ## 🛠️  Tools 
 
@@ -25,6 +28,15 @@ A curated list of ransomware-related resources.
 
 - [CryptoSearch](https://www.bleepingcomputer.com/download/cryptosearch/)
 - [RansomNoteCleaner](https://www.bleepingcomputer.com/download/ransomnotecleaner/)
+- [RAASNet](https://github.com/leonv024/RAASNet)
+  - The version above is no more: see [CesarAyalaDev/RAASNet](https://github.com/CesarAyalaDev/RAASNet)
+
+## 📝 Ransomware Notes
+
+> AKA demands.
+
+- [Ransomware Notes](https://github.com/ThreatLabz/ransomware_notes)
+- Ransomware known file name ransom notes: [ransomware_notes_list.csv](https://github.com/mthcht/awesome-lists/blob/main/Lists/ransomware_notes_list.csv)
 
 ## 🗺️  Guides and Playbooks
 
@@ -36,6 +48,9 @@ A curated list of ransomware-related resources.
 
 ## 🖼️  Infographics
   - [Ransomware Families](https://heimdalsecurity.com/blog/wp-content/uploads/ransowmare-families-f-secure-1.jpg) - A diagram from F-Secure of ransomware families from 2012-2017.
+  - [A timeline of major ransomware events](https://kraftbusiness.com/wp-content/uploads/2019/01/history-evolution-of-ransomware.png)
+    - The link above is `404`: see [the timeline via the Wayback Machine](https://web.archive.org/web/20220121031312/https://kraftbusiness.com/wp-content/uploads/2019/01/history-evolution-of-ransomware.png).
+  - [Ransomware Attacks Map](https://statescoop.com/ransomware-map/) - An interactive map of known ransomware incidents in the US
 
 ## 🏡  Lists of Ransomware Families
   - [NJCCIC](https://www.cyber.nj.gov/threat-profiles/ransomware/) - From AutoLocky to Zepto
@@ -64,22 +79,11 @@ A curated list of ransomware-related resources.
   - [Ransomware Task Force](https://securityandtechnology.org/ransomwaretaskforce/)
     - [RTF Report: Combating Ransomware](https://securityandtechnology.org/ransomwaretaskforce/report/) 
   -  Ransomware known file extensions: [ransomware_extensions_list.csv](https://github.com/mthcht/awesome-lists/blob/main/Lists/ransomware_extensions_list.csv)
-  -   Ransomware known file name ransom notes: [ransomware_notes_list.csv](https://github.com/mthcht/awesome-lists/blob/main/Lists/ransomware_notes_list.csv)
+  - [EMPHASIS: Economical, Psychological and Societal Impact of Ransomware](https://www.emphasis.ac.uk/) -- no longer actively updated, still available for reference
+    
+## 🎥 Videos and 🎤 Podcasts
 
-## 📝 Miscellaneous
-  - [EMPHASIS: Economical, Psychological and Societal Impact of Ransomware](https://www.emphasis.ac.uk/)
-  - [Ransomware: Past, Present and Future](https://blog.talosintelligence.com/2016/04/ransomware.html) - Cisco Talos blog post on ransomware, vintage 2016
   - [Darkode](https://www.wnycstudios.org/podcasts/radiolab/articles/darkode) - A well-produced Radiolab episode that follows a mother-daughter pair in the wake of a ransomware incident
-  - [A timeline of major ransomware events](https://kraftbusiness.com/wp-content/uploads/2019/01/history-evolution-of-ransomware.png)
-    - The link above is `404`: see [the timeline via the Wayback Machine](https://web.archive.org/web/20220121031312/https://kraftbusiness.com/wp-content/uploads/2019/01/history-evolution-of-ransomware.png).
-  - [Ransomware Attacks Map](https://statescoop.com/ransomware-map/) - An interactive map of known ransomware incidents in the US
-  - [RAASNet](https://github.com/leonv024/RAASNet)
-    - The version above is no more: see [CesarAyalaDev/RAASNet](https://github.com/CesarAyalaDev/RAASNet).
-  - [Rensenware](https://en.wikipedia.org/wiki/Rensenware)
-    - [Do you want to play a game? Ransomware asks for high score instead of money](https://arstechnica.com/gaming/2017/04/do-you-want-to-play-a-game-ransomware-asks-for-high-score-instead-of-money/)
-
-## 🎥 Videos
-
   - [SANS Ransomware Summit 2022](https://www.youtube.com/playlist?list=PLtgaAEEmVe6AGQj2LhA4UnN0XolmeYw9_)
 
 ## Related Awesome Lists

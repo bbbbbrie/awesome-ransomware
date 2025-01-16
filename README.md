@@ -85,3 +85,4 @@ A curated list of ransomware-related resources.
 ## Related Awesome Lists
   - [awesome-incident-reponse](https://github.com/meirwah/awesome-incident-response)
   - [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
+  - [Security lists for SOC/DFIR detections](https://github.com/mthcht/awesome-lists)

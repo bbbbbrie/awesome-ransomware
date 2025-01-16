@@ -51,6 +51,7 @@ A curated list of ransomware-related resources.
     - [✨ notable projects](https://ransomwatch.telemetry.ltd/#/sidecar-projects) list on `ransomwatch.telemetry.ltd`
     - [joshhighet/ransomwatch](https://github.com/joshhighet/ransomwatch) on GitHub
   - [Ransomware Tool Matrix](https://github.com/BushidoUK/Ransomware-Tool-Matrix) - [companoin blog post](https://blog.bushidotoken.net/2024/08/the-ransomware-tool-matrix.html)
+  - [Ransomware Vulnerability Matrix](https://github.com/BushidoUK/Ransomware-Vulnerability-Matrix/)
   - [ransomware_gang.md](https://github.com/fastfire/deepdarkCTI/blob/main/ransomware_gang.md) in `fastfire/deepdarkCTI` on GitHub
 
 ## Resources
@@ -62,6 +63,8 @@ A curated list of ransomware-related resources.
   - [/r/ransomware](https://www.reddit.com/r/Ransomware/)
   - [Ransomware Task Force](https://securityandtechnology.org/ransomwaretaskforce/)
     - [RTF Report: Combating Ransomware](https://securityandtechnology.org/ransomwaretaskforce/report/) 
+  -  Ransomware known file extensions: [ransomware_extensions_list.csv](https://github.com/mthcht/awesome-lists/blob/main/Lists/ransomware_extensions_list.csv)
+  -   Ransomware known file name ransom notes: [ransomware_notes_list.csv](https://github.com/mthcht/awesome-lists/blob/main/Lists/ransomware_notes_list.csv)
 
 ## Miscellaneous
   - [EMPHASIS: Economical, Psychological and Societal Impact of Ransomware](https://www.emphasis.ac.uk/)

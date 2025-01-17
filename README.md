@@ -37,6 +37,7 @@
 
 - [Ransomware Notes](https://github.com/ThreatLabz/ransomware_notes)
 - Ransomware known file name ransom notes: [ransomware_notes_list.csv](https://github.com/mthcht/awesome-lists/blob/main/Lists/ransomware_notes_list.csv)
+- [Translated Conti Leaked Comms](https://gitlab.com/PX44b9RX9050/translated_conti_leaked_comms/-/tree/main?ref_type=heads)
 
 ## 🗺️  Guides and Playbooks
 
